@@ -1,0 +1,27 @@
+build/*
+release/*
+tests/*
+
+# Test images
+*.bmp
+*.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+*.old
+*.orig
